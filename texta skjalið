@@ -1,0 +1,9 @@
+i. Scene View – Þetta svæði gerir notandanum kleift að skoða og stjórna hlutum í þrívíddarsenunni. Scene View er þar sem notandinn setur upp, breytir og hreyfir þætti senunnar til að móta leikjaumhverfið eða aðra sýnilega hluti.
+
+ii. Game View – Þetta svæði sýnir hvernig útkoma leiksins mun líta út fyrir leikmanninn þegar hann spilar. Það er í raun forskoðun á raunverulegum leik. Hægt er að keyra leikinn í þessu svæði til að prófa og sjá hvernig hann mun birtast á meðan hann er keyrður.
+
+iii. Project – Project glugginn geymir öll skrár og eignir (assets) sem tilheyra verkefninu, þar með talin líkan, textur, hljóð, handrit o.s.frv. Þetta er eins konar skráarkerfi sem heldur utan um öll efni verkefnisins.
+
+iv. Hierarchy – Í Hierarchy glugganum er listi yfir alla hluti (GameObjects) sem eru í senunni þinni. Þetta svæði sýnir trjáskipulag á hlutum í senunni, þar sem hver hlutur er annað hvort aðalhlutur eða undirhlutur.
+
+v. Inspector – Inspector glugginn sýnir upplýsingar og eiginleika fyrir þann hlut (GameObject) sem hefur verið valinn í senunni. Hérna getur notandinn breytt eiginleikum eins og staðsetningu, stærð og efnaþáttum hlutarins.
